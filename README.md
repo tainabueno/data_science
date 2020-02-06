@@ -8,24 +8,24 @@
 
 
 # Tainá Bueno
-<sub>*Designer de Interface* - Doutoranda em Design e Mídia pela Universidade Federal de Santa Catarina (UFSC)</sub>
+<sub>*UI/UX Designer* - Ph.D. student in Design and Media at PosDesign UFSC</sub>
 
 
-Graduada em em Design (2010) com Especialização em Design e Gestão da Marca: Branding (2012). Mestre em Design - Métodos para Fatores Humanos/Ergonomia pelo PPGDesign da UDESC (Universidade do Estado de Santa Catarina) como pesquisadora/bolsista CAPES DS. Doutoranda em Design e Mídia pelo PósDesign UFSC (Universidade Federal de Santa Catarina) também como pesquisadora/bolsista CAPES DS.
+Graduated in Design (2010) with a specialization in Design and Brand Management: Branding (2012). Master in Design - Methods for Human Factors/Ergonomics by PPGDesign from UDESC (State University of Santa Catarina) as a researcher/scholarship CAPES DS. Ph.D. student in Design and Media at PosDesign UFSC (Federal University of Santa Catarina) also as a researcher/scholarship CAPES DS.
 
-No mercado de tenho experiência na área de programação visual impressa e digital, bem como, UI & UX em aplicativos mobile atuando em empresa de tecnologia, agências de publicidade, jornal impresso e professora universitária. 
+In the market, I have experience in the area of ​​printed and digital visual programming, as well as UI & UX in mobile applications working in a technology company, advertising agencies, printed newspaper and university professor.
 
-Participante dos Grupos de pesquisa SCTIC - Estruturante em Pesquisa para Santa Catarina, TECMÍDIA e TECSAUDE. Áreas de estudo: RFID [Radio Frequency Identification], Internet das Coisas, Gestão Hospitalar, Design de Interação, User Experience, IHC [Interação Humano-Computador].
+Participant in the Research Groups SCTIC - Structuring Research for Santa Catarina, TECMÍDIA and TECSAUDE. Areas of study: RFID [Radio Frequency Identification], Internet of Things, Hospital Management, Interaction Design, User Experience, IHC [Human-Computer Interaction].
 
 
 
-**Background in:** UI/UX, Web and Mobile Applications, Data Science and Machine Learning.
+**Background in:** UI/UX, Web and Mobile Apps Interface, Data Science and Machine Learning.
 
 
 **Links:**
 * [Blog](http://tainabueno.com)
 * [LinkedIn](https://www.linkedin.com/in/tain%C3%A1-a-bueno-de-oliveira-856b62b8/)
-* [Medium](https://www.medium.com)
+* [Medium](https://www.medium.com/@tainabueno)
 
 
 
