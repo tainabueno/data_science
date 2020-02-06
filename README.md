@@ -23,7 +23,7 @@ Participant in the Research Groups SCTIC - Structuring Research for Santa Catari
 
 
 **Links:**
-* [Blog](http://tainabueno.com)
+* [Portifólio](http://tainabueno.com)
 * [LinkedIn](https://www.linkedin.com/in/tain%C3%A1-a-bueno-de-oliveira-856b62b8/)
 * [Medium](https://www.medium.com/@tainabueno)
 
