@@ -5,18 +5,24 @@
   <img src="banner.png" >
 </p>
 
+
+
 # Tainá Bueno
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Designer de Interface* - Doutoranda em Design e Mídia pela Universidade Federal de Santa Catarina (UFSC)</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Graduada em em Design (2010) com Especialização em Design e Gestão da Marca: Branding (2012). Mestre em Design - Métodos para Fatores Humanos/Ergonomia pelo PPGDesign da UDESC (Universidade do Estado de Santa Catarina) como pesquisadora/bolsista CAPES DS. Doutoranda em Design e Mídia pelo PósDesign UFSC (Universidade Federal de Santa Catarina) também como pesquisadora/bolsista CAPES DS.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+No mercado de tenho experiência na área de programação visual impressa e digital, bem como, UI & UX em aplicativos mobile atuando em empresa de tecnologia, agências de publicidade, jornal impresso e professora universitária. 
+
+Participante dos Grupos de pesquisa SCTIC - Estruturante em Pesquisa para Santa Catarina, TECMÍDIA e TECSAUDE. Áreas de estudo: RFID [Radio Frequency Identification], Internet das Coisas, Gestão Hospitalar, Design de Interação, User Experience, IHC [Interação Humano-Computador].
+
+
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [Blog](http://tainabueno.com)
+* [LinkedIn](https://www.linkedin.com/in/tain%C3%A1-a-bueno-de-oliveira-856b62b8/)
 * [Medium](https://www.medium.com)
 
 
