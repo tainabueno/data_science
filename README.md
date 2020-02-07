@@ -7,7 +7,7 @@
 
 
 
-# Tainá Bueno
+# Taina Bueno
 <sub>*UI/UX Designer* - Ph.D. student in Design and Media at PosDesign UFSC</sub>
 
 
