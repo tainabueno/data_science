@@ -31,13 +31,13 @@ Participant in the Research Groups SCTIC - Structuring Research for Santa Catari
 ## Projects:
 xxxxxxx:
 
-* **xxxx:** https://bit.ly/2L2cMwy
-* **xxxxx:** https://bit.ly/2Li5pzY
-* **xxxx:** https://bit.ly/2Ubr5SH
-* **xxxx:** https://bit.ly/31KWSMN
-* **Xxxxx:** https://bit.ly/2UbRhws
-* **xxxxx:** https://bit.ly/2OxsphM
-* **xxxxx:** https://bit.ly/2ZlaNsV
+* **Análise dos Dados do Airbnb na Cidade de Buenos Aires:** http://bit.ly/38kOKX6
+* **xxxxx:** 
+* **xxxx:** 
+* **xxxx:** 
+* **Xxxxx:** 
+* **xxxxx:** 
+* **xxxxx:** 
 
 ---
 
