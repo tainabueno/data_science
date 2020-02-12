@@ -13,10 +13,9 @@
 
 Graduated in Design (2010) with a specialization in Design and Brand Management: Branding (2012). Master in Design - Methods for Human Factors/Ergonomics by PPGDesign from UDESC (State University of Santa Catarina) as a researcher/scholarship CAPES DS. Ph.D. student in Design and Media at PosDesign UFSC (Federal University of Santa Catarina) also as a researcher/scholarship CAPES DS.
 
-In the market, I have experience in the area of ​​printed and digital visual programming, as well as UI & UX in mobile applications working in a technology company, advertising agencies, printed newspaper and university professor.
+My field of experience is print and digital visual programming, as well as UI & UX in mobile applications and web-based programs, working in a technology company, advertising agencies, printed newspaper, and university professor.
 
 Participant in the Research Groups SCTIC - Structuring Research for Santa Catarina, TECMÍDIA and TECSAUDE. Areas of study: RFID [Radio Frequency Identification], Internet of Things, Hospital Management, Interaction Design, User Experience, IHC [Human-Computer Interaction].
-
 
 
 **Background in:** UI/UX, Web and Mobile Apps Interface, Data Science and Machine Learning.
