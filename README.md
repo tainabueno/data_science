@@ -11,7 +11,7 @@
 <sub>*UI/UX Designer* - Ph.D. student in Design and Media at PosDesign UFSC</sub>
 
 
-Graduated in Design (2010) with a specialization in Design and Brand Management: Branding (2012). Master in Design - Methods for Human Factors/Ergonomics by PPGDesign from UDESC (State University of Santa Catarina) as a researcher/scholarship CAPES DS. Ph.D. student in Design and Media at PosDesign UFSC (Federal University of Santa Catarina) also as a researcher/scholarship CAPES DS.
+Bachelor in Design (2010) with a specialization in Design and Brand Management: Branding (2012). Masters in Design - Methods for Human Factors/Ergonomics by PPGDesign from UDESC (State University of Santa Catarina) as a researcher/scholarship CAPES DS. Ph.D. student in Design and Media at PosDesign UFSC (Federal University of Santa Catarina) also as a researcher/scholarship CAPES DS.
 
 My field of experience is print and digital visual programming, as well as UI & UX in mobile applications and web-based programs, working in a technology company, advertising agencies, printed newspaper, and university professor.
 
